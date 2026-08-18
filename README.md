@@ -8,10 +8,11 @@ University project for Artificial Intelligence course, developed using python.
 -Matplotlib
 -Tkinter
 ##Features
--Data loader
--Data Processing
--Data Analysis
+Implementation of AI concepts
+-Data loader,Analysis and Processing
 -Visualization
 -GUI
 ## Project Type
 university project
+## Author
+Manahil Nasir
